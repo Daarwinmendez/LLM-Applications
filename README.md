@@ -48,10 +48,10 @@ pip install -r requirements.txt
 * En Jupyter Notebook / Colab:
 Abre el archivo main.ipynb y ejecútalo celda por celda.
 * Como Script Python:
-Si deseas ejecutar el proyecto como script, asegúrate de que el entorno esté configurado y ejecuta:
+Si deseas ejecutar el proyecto como script, asegúrate de que el entorno esté configurado, descarga el ejecutable y ejecuta:
 
 ```bash
-python main-2.py
+python main.py
 ```
 (Verifica el nombre del script según corresponda.)
 
