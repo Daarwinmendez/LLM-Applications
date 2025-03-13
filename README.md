@@ -1,4 +1,4 @@
-# Evaluación de Modelos de NLP con Hugging Face
+# Evaluación de LLMs con Hugging Face
 
 ## Resumen del Proyecto
 Este proyecto evalúa y compara modelos de NLP en tareas fundamentales (resumen, clasificación, traducción, generación de texto, zero-shot y few-shot learning) utilizando pipelines de Hugging Face. Se mide el desempeño de cada modelo en términos de parámetros, tamaño en memoria, tiempo de inferencia y métricas específicas (ROUGE, BLEU, accuracy, perplexidad, etc.).
